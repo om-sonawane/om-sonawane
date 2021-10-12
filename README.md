@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm om sonawane</h1>
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
-<p align="left"> <a href="https://twitter.com/@Om_sonawane03" target="blank"><img src="https://img.shields.io/twitter/follow/@om_sonawane03?logo=twitter&style=for-the-badge" alt="@om_sonawane03" /></a> </p>
-
 - 🔭 I’m currently working on **PYTHON**
 
 - 🌱 I’m currently learning **PYTHON, JAVASCRIPT**
