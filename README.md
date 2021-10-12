@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm om sonawane</h1>
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
-<p align="left"> <a href="https://twitter.com/sonawane03" target="blank"><img src="https://img.shields.io/twitter/follow/sonawane03?logo=twitter&style=for-the-badge" alt="sonawane03" /></a> </p>
+
 <img align="right" height="300" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 - 🔭 I’m currently working on **PYTHON**
 
 - 🌱 I’m currently learning **PYTHON, JAVASCRIPT**
 
-- 💬 Ask me about **youtube,photoshop**
+- 💬 Ask me about **YOUTUBE, PHOTOSHOP**
 
 - 📫 How to reach me **omsonawane03@gmail.com**
 
