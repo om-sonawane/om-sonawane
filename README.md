@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm om sonawane</h1>
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/om_sonawane03" target="blank"><img src="https://img.shields.io/twitter/follow/om_sonawane03?logo=twitter&style=for-the-badge" alt="om_sonawane03" /></a> </p>
 
 - 🔭 I’m currently working on **PYTHON**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/om_sonawane03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om_sonawane03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om sonawane" height="30" width="40" /></a>
 <a href="https://instagram.com/om_sonawane_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_sonawane_03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/omkar369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omkar369" height="30" width="40" /></a>
