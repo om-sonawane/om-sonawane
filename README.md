@@ -3,7 +3,7 @@
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
 
-<img align="right" height="300" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" height="200" width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently working on **PYTHON**
 
