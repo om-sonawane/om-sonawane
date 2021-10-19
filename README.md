@@ -1,4 +1,4 @@
-<img align="center" height="300" width="1200" src="https://pbs.twimg.com/profile_banners/1250297851936038917/1634028488/600x200">
+<img align="center" height="300" width="1200" src="https://pbs.twimg.com/profile_banners/1250297851936038917/1634637304/600x200">
 <h1 align="center">Hi 👋, I'm om sonawane</h1>
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
