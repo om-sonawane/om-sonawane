@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-sonawane&show_icons=true&locale=en&layout=compact" alt="om-sonawane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-sonawane&" alt="om-sonawane" /></p>
+
