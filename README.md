@@ -1,4 +1,4 @@
-<img align="center" height="300" width="1000" src="https://www.linkedin.com/in/om-sonawane-23bab11b8/overlay/background-image/.png"> 
+
 <h1 align="center">Hi 👋, I'm om sonawane</h1>
 <h3 align="center">A NEWBEE IN CODING WORLD</h3>
 
