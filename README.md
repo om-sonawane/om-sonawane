@@ -1,19 +1,17 @@
   ![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
-<h1 align="center">Hi 👋, I'm om sonawane</h1>
-<h3 align="center">A NEWBEE IN CODING WORLD</h3>
+<h1 align="center">Hi 👋, I'm om </h1>
+<h3 align="center">I'm on a wild journey through the digital wilderness</h3>
 
 
 <img align="right" height="200" width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **PYTHON**
+- 🔭 I’m currently working on WEB-DEV
 
-- 🌱 I’m currently learning **PYTHON, JAVASCRIPT**
+- 🌱 I’m currently learning CSS, BOOTSTRAP
 
-- 💬 Ask me about **YOUTUBE, PHOTOSHOP**
+- 📫 How to reach me omsonawane03@gmail.com
 
-- 📫 How to reach me **omsonawane03@gmail.com**
-
-- ⚡ Fun fact **i am good at photoshop**
+- ⚡ Fun fact i am good at HTML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
