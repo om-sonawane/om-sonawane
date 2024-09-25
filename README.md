@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WEB-DEV**
 
-- 🌱 I’m currently learning **CSS, BOOTSTRAP**
+- 🌱 I’m currently learning **React, NextJs**
 
 - 📫 How to reach me **omsonawane03@gmail.com**
 
