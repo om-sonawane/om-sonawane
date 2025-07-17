@@ -99,6 +99,8 @@ When I’m not coding, you’ll find me exploring the newest tech trends or shar
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=om-sonawane&show_icons=true&theme=radical" alt="om's GitHub stats" />
 </p>
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <p align="center">
     <img src="https://github-read
